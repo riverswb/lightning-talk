@@ -1,4 +1,4 @@
-## Mechanical Keyboards and why your keyboard is inferior.
+## Mechanical Keyboards
 
 ##### What makes a mechanical keyboard?
 ![das mechanical keyboard](https://cdn0.vox-cdn.com/thumbor/mZYGYtjsvWuox5uclzHMWWgEUys=/cdn0.vox-cdn.com/uploads/chorus_asset/file/2904738/daskeyboard-4-professional-front-view.0.jpg)
@@ -26,3 +26,7 @@
 * Each switch under the board is individual.
 
 * switches are composed of: a base, a spring, and a stem
+
+* Switches come in three variants: linear (consistent variance, quiet), tactile (a non audible bump that occurs when the keystroke has been registered), clicky (an audible click occurs when the stroke has been registered)
+
+* Cherry makes some of the most popular mechanical switches.  A benefit of their switches is that the key is actuated before it bottoms out(2mm actuation, 4mm travel), they also have different force requirements for different color keys.  
